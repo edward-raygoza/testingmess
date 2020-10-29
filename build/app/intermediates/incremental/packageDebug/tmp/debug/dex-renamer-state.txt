@@ -1,0 +1,4 @@
+#Wed Oct 28 17:08:42 PDT 2020
+base.0=C\:\\Users\\edwar\\OneDrive\\Desktop\\CSE\\CSE155_HumanComp_Interaction\\healthapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
